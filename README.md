@@ -1,10 +1,5 @@
 # A*_Path_Planning_Algorithm
 Implementation of the A* path planning algorithm for finding the shortest path in a grid with obstacles. Supports configurable start/goal points, visualizations, and cost +heuristics. Ideal for robotics, games, and AI applications.
-# A* Path Planning Algorithm 🚀
-
-This project implements the **A\*** (A-Star) pathfinding algorithm on a **9x10 grid**. It finds the shortest path between a start and goal cell while avoiding obstacles. The algorithm uses a combination of actual cost (`g`) and heuristic cost (`h`) to determine the best path.
-
----
 
 ## 📌 Features
 
